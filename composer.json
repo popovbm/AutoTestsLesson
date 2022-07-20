@@ -1,0 +1,13 @@
+{
+    "name": "popov/auto-tests-lesson",
+    "description": "AutoTestsLesson",
+    "authors": [
+        {
+            "name": "Ivan Popov",
+            "email": "popovbm@gmail.com"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
